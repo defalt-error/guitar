@@ -1,0 +1,11 @@
+p001,mustang,fender,90,200
+p002,les paul,gibson,20,500
+p003,falyng v,gibson,10,350
+p004,sg,gibson,50,480
+p005,les pauljr,epiphone,33,170
+p006,jaguar,squier,17,700
+p007,stratocaster,fender,90,200
+p008,af-510,cort,15,199
+p009,HB-35CH,harley,40,500
+p010,c-1-mtr,freeman,40,120
+                
